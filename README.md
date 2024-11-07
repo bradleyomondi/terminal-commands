@@ -13,8 +13,11 @@ This is the list of the covered commands
 10. rm - used to reemove files 
 11. clear - used to clear Terminal
 12. git init
-13. git add
+13. git add (namme of file)
 14. git commit -m "commitment"
 15. git remote origin main
-16. git main 
-17. git push 
+16. git branch -M main
+17. git push -u origin main
+18. ls -a - list all
+19. git status 
+20. 
