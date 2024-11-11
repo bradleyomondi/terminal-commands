@@ -37,3 +37,15 @@ This is the list of the covered commands
 18. *ls -a* - list all the contents in the current folder
 19. *git status* - used in checking the state of the working directory
 20. *git add -a* - used to add all to repository
+21. *git clone* - use in getting files from other 
+22. *git remote set url*
+23. *git checkout -b (new branch)* and move into
+24. *git checkout main*
+25. *git branch* to view
+26. *git branch (new branch)* create branch when in main and not move onto
+27. *git branch -D (file you want deleted)*
+28. *git add .*
+29. *git log* 
+30. *git pull*
+31. *git push -u origin (new branch)*
+32. *git remote -v* 
